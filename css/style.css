@@ -1,0 +1,65 @@
+header {
+    background-color: black;
+    padding: 3rem;
+    color:darkgray;
+    font-family: 'Londrina Solid', cursive;
+}
+
+.no-gutters {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+nav {
+    margin-bottom: 0rem;
+    margin-top: 0px;
+
+    
+   }
+
+.nav-link {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.nav-item :hover {
+    background-color: lightgrey;
+    border-radius: 0.5rem;
+}
+
+.nav-item {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+footer {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    background-image: url('https://i.pinimg.com/236x/e5/f0/7f/e5f07f111ba6c7899edb384879443530.jpg');
+    color: black;
+    font-family: 'Londrina Solid', cursive;
+}
+
+.card {
+    margin-left: 3rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+main{
+    background-image: url('https://i.pinimg.com/564x/b5/54/b7/b554b75eaf346c58c6fc0ada19bddfc3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-top: 0rem;
+      
+
+}
+
+h6{
+
+    font-family: 'Londrina Solid', cursive;
+    color: grey;
+    font-size: 1.8rem !important
+
+}
